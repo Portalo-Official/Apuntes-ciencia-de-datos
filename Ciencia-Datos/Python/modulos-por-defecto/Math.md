@@ -17,8 +17,13 @@ El módulo `math` en Python proporciona acceso a muchas funciones matemáticas c
 
 ### Máximo común divisor
 
-- gcd( x, y ): z --> Máximo común divisor
+- `gcd( x, y ): int`
+	Devuelve el máximo común divisor (MCD) de los enteros `x` y `y`.
 
+```python
+import math
+print(math.gcd(60, 48))  # Salida: 12
+```
 ### Redondeo hacia abajo
 
 - floor(x): z --> Valor entero más grande que es **menor o igual** a x
