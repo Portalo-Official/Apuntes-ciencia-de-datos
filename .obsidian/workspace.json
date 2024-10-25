@@ -11,10 +11,14 @@
             "id": "6ad3bea7327ba0b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ciencia-Datos/Python/modulos-por-defecto/Math.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Math"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ciencia-Datos/Python/modulos-por-defecto/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Math"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ciencia-Datos/Python/modulos-por-defecto/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Math"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Ciencia-Datos/Python/modulos-por-defecto/Math.md"
+              },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Math"
             }
           },
           {
@@ -167,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1cf8ecf69cc3c5d",
+  "active": "6ad3bea7327ba0b8",
   "lastOpenFiles": [
     "Ciencia-Datos/1carrera/estructura-de-datos/Estructura de datos.md",
     "Ciencia-Datos/Python/estructura-de-datos/Listas.md",
