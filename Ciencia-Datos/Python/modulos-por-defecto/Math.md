@@ -5,6 +5,8 @@ El módulo `math` en Python proporciona acceso a muchas funciones matemáticas c
 
 # Métodos Comunes
 
+## Métodos de tratamientos numéricos
+
 ### Valor Absoluto
 
 - `fabs( x ): float`  
@@ -31,4 +33,15 @@ print(math.gcd(60, 48))  # Salida: 12
 ### Redondeo hacia arriba
 
 - ceil(x): z --> Valor entero mas pequeño  x
+
+
+### 
+
+## Funciones Trigonométricas
+
+### Seno
+
+### Coseno
+
+### Tangente
 
