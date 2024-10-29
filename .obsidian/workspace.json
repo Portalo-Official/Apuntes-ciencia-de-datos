@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencia-Datos/1carrera/estadistica/Conceptos.md",
+                "file": "Ciencia-Datos/1carrera/estadistica/Muestreo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceptos"
+              "title": "Muestreo"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "6ad3bea7327ba0b8",
   "lastOpenFiles": [
-    "Ciencia-Datos/1carrera/estadistica/Estadistica.md",
     "Ciencia-Datos/1carrera/estadistica/Conceptos.md",
+    "Ciencia-Datos/1carrera/estadistica/Muestreo.md",
+    "Ciencia-Datos/1carrera/estadistica/Estadistica.md",
     "Ciencia-Datos/Python/modulos-por-defecto/Math.md",
     "Ciencia-Datos/1carrera/estructura-de-datos/Estructura de datos.md",
     "Ciencia-Datos/Python/estructura-de-datos/Listas.md",
