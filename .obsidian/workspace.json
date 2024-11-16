@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciencia-Datos/1carrera/estadistica/Muestreo.md",
+                "file": "Ciencia-Datos/2carrera/aprendizaje-estadistico/Aprendizaje Estadistico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Muestreo"
+              "title": "Aprendizaje Estadistico"
+            }
+          },
+          {
+            "id": "e81ca02bf7a146fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciencia-Datos/Python/Numpy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Numpy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b793a7044698aa76",
@@ -175,15 +190,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ad3bea7327ba0b8",
+  "active": "e81ca02bf7a146fd",
   "lastOpenFiles": [
-    "Ciencia-Datos/1carrera/estadistica/Conceptos.md",
+    "Ciencia-Datos/Python/modulos-por-defecto/Módulos Por Defecto de Python.md",
+    "Ciencia-Datos/Python/Numpy.md",
+    "Ciencia-Datos/Python/histograma01.ipynb",
     "Ciencia-Datos/1carrera/estadistica/Muestreo.md",
+    "Ciencia-Datos/1carrera/estadistica/Conceptos.md",
     "Ciencia-Datos/1carrera/estadistica/Estadistica.md",
     "Ciencia-Datos/Python/modulos-por-defecto/Math.md",
     "Ciencia-Datos/1carrera/estructura-de-datos/Estructura de datos.md",
     "Ciencia-Datos/Python/estructura-de-datos/Listas.md",
-    "Ciencia-Datos/Python/modulos-por-defecto/Módulos Por Defecto de Python.md",
     "Ciencia-Datos/Python/modulos-por-defecto/Ramdon.md",
     "Ciencia-Datos/Python/modulos-por-defecto",
     "Ciencia-Datos/Excalidraw/Drawing 2024-10-06 15.01.17.excalidraw.md",
