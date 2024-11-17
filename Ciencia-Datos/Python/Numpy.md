@@ -37,11 +37,13 @@ NumPy es una biblioteca esencial en Python para la manipulación de arrays y cá
 - **Función**: Crea un arreglo lleno de ceros.
 - **Ejemplo**:
     
-    python
-    
-    Copiar código
-    
-    `arr = np.zeros((2, 3)) print(arr)   # Output:  # [[0. 0. 0.] #  [0. 0. 0.]]`
+    ```python
+    arr = np.zeros((2, 3)) 
+    print(arr)   
+    # Output:  
+    # [[0. 0. 0.] 
+    #  [0. 0. 0.]]
+	```
     
 
 #### 3. **`np.ones`**
@@ -49,12 +51,14 @@ NumPy es una biblioteca esencial en Python para la manipulación de arrays y cá
 - **Función**: Crea un arreglo lleno de unos.
 - **Ejemplo**:
     
-    python
-    
-    Copiar código
-    
-    `arr = np.ones((3, 2)) print(arr) # Output: # [[1. 1.] #  [1. 1.] #  [1. 1.]]`
-    
+```python
+    arr = np.ones((3, 2)) 
+    print(arr) 
+    # Output: 
+    # [[1. 1.] 
+    #  [1. 1.] 
+    #  [1. 1.]]
+```
 
 #### 4. **`np.arange`**
 
@@ -85,12 +89,10 @@ NumPy es una biblioteca esencial en Python para la manipulación de arrays y cá
 - **Función**: Genera valores aleatorios uniformes entre 0 y 1.
 - **Ejemplo**:
     
-    python
-    
-    Copiar código
-    
-    `arr = np.random.rand(2, 3) print(arr)`
-    
+```python
+arr = np.random.rand(2, 3) 
+print(arr)
+```
 
 #### 7. **`np.random.randn`**
 
